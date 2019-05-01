@@ -63,7 +63,7 @@ npm run dev
 
     ### Add Blocks to the Right Region
 - Go to the Block Layout Page (/admin/structure/block)
-- Assign the blocks as follows:\
+- Assign the blocks as follows:
 
     <br>
 
